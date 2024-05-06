@@ -1,0 +1,2 @@
+Tutaj treść będzie zupełnie inna
+Żeby konfliktowała z ficzerem2 z feature1
