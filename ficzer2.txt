@@ -1,3 +1,5 @@
 Tutaj będziemy mieć nowy tekst 
 Ten tekst bedzie konfliktował z bugfixem
 Co zrobimy?
+Tutaj treść będzie zupełnie inna
+Żeby konfliktowała z ficzerem2 z feature1
