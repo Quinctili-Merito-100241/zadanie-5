@@ -1,0 +1,3 @@
+Tutaj będziemy mieć nowy tekst 
+Ten tekst bedzie konfliktował z bugfixem
+Co zrobimy?
