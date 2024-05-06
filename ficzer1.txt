@@ -1,0 +1,5 @@
+Tutaj tworzymy tekst, który będzie poprawiany przez bugfix.
+
+Cytat, cytata – dosłowne przytoczenie cudzych słów. 
+Cytat w literaturze jest formą ekspresji artystycznej. 
+Może mieć charakter jawny, w postaci wyraźnie wyróżnionego tekstu, lub niejawny, stanowiąc rodzaj aluzji.
